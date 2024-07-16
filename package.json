@@ -7,9 +7,8 @@
     "test": "exit 0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "@JayasreePaila1061:registry": "https://npm.pkg.github.com"
+  }
 }
-"publishConfig": {
-  "@JayasreePaila1061:registry": "https://npm.pkg.github.com"
-}
-
