@@ -1,0 +1,11 @@
+{
+  "name": "@jayasreepaila1061/gitpackage",
+  "version": "1.0.0",
+  "description": "gitpackage",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
