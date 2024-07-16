@@ -9,3 +9,6 @@
   "author": "",
   "license": "ISC"
 }
+"publishConfig": {
+  "@JayasreePaila1061:registry": "https://npm.pkg.github.com"
+}
